@@ -1,4 +1,4 @@
-# ML-Summative1
+# ML-Summative Assignment-1
 
 # Linear Regression Optimization Using Gradient Descent
 
