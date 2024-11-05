@@ -74,3 +74,8 @@ The following packages are required:
 You can install them with:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+
+Contributing
+Feel free to fork this project, open issues, and submit pull requests.
+
+This README provides an organized overview, including steps for implementing and comparing the models. Let me know if you need further customization!
